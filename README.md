@@ -103,4 +103,4 @@ Confirm with yes to delete all resources.
 
 ## Conclusion
 
-This document demonstrates a simple CDK deployment process, from project initialization to cleaning up resources. For more complex use cases and customization, explore the AWS CDK Documentation.
+This document demonstrates a simple CDK deployment process, from project initialization to cleaning up resources. For more complex use cases and customization, explore the [AWS CDK Documentation](https://docs.aws.amazon.com/cdk/v2/guide/home.html).
